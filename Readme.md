@@ -1,0 +1,1 @@
+day1: 學習安裝與執行hello wrold
