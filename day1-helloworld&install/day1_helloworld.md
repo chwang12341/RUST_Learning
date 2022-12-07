@@ -11,14 +11,14 @@
 > curl --proto '=https' --tlsv1.2 -sSf [https://sh.rustup.rs](https://sh.rustup.rs/) | sh
 > 
 
-![1](images/1.png)
+![3](images/3.png)
 
 ### 解除安裝:
 
 > rustup self uninstall
 > 
 
-![2](images/2.png)
+![1](images/1.png)
 
 ### 確定是否有安裝完成 - 查看rustc版本
 
@@ -47,6 +47,8 @@ info: checking for self-updates
 info: cleaning up downloads & tmp directories
 ```
 
+### 二. 開始我們的Hello World!
+
 Step 1: 創建新檔案，副檔名為.rs
 
 創建一個helloworld.rst檔案
@@ -72,7 +74,7 @@ base) chihhusan@wangzhixuandeMacBook-Pro hello_world % rustc [helloworld.rs](htt
 
 編譯完後會出現一個執行檔
 
-![3](images/3.png)
+![2](images/2.png)
 
 Step 4: 執行
 
